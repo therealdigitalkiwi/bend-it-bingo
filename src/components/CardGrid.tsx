@@ -20,62 +20,62 @@ const initialCards: CardData[] = [
   {
     id: '1',
     title: 'Close-Up on Emotion',
-    summary: 'Close-Up on Emotion', // Keep summary as title for consistency
-    detail: 'Find a shot framed tightly on a character, drawing attention to their facial expression and hinting at their internal state.'
+    summary: 'Close-Up on Emotion', // Keep summary as title
+    detail: 'A shot zoomed right in on a character\'s face. Clearly shows strong feelings like happiness, sadness, or anger, helping the audience connect with them.'
   },
   {
     id: '2',
     title: 'Mood Music',
     summary: 'Mood Music',
-    detail: 'Notice when background music (that the characters likely can\'t hear) is used to influence how the audience feels about what\'s happening on screen.'
+    detail: 'Background music (characters can\'t hear) used to make the audience feel something specific about the scene – like excited, tense, or sad.'
   },
   {
     id: '3',
     title: 'Culture Clash Moment',
     summary: 'Culture Clash Moment',
-    detail: 'Spot a scene where different cultural beliefs, values, or ways of doing things create visible tension or misunderstanding between characters.'
+    detail: 'A scene showing misunderstanding or tension when characters from different cultural backgrounds interact due to different beliefs, rules, or ways of life.'
   },
   {
     id: '4',
     title: 'Significant Costume/Prop',
     summary: 'Significant Costume/Prop',
-    detail: 'See an object or item of clothing that seems deliberately chosen to tell us something important about a person, their background, or the situation.'
+    detail: 'An important object or piece of clothing that gives visual clues about a character\'s personality, background, feelings, or the situation unfolding.'
   },
   {
     id: '5',
     title: 'Establishing Long Shot',
     summary: 'Establishing Long Shot',
-    detail: 'Find a shot taken from a distance that shows a wide view of the location and where the characters are positioned within that environment.'
+    detail: 'A camera shot from far away showing a wide view of the location (setting). It shows where the scene happens and characters\' positions.'
   },
   {
     id: '6',
     title: 'Breaking Expectations',
     summary: 'Breaking Expectations',
-    detail: 'Witness a character acting in a way that challenges what others, or perhaps society in general, might expect from someone like them.'
+    detail: 'A character acts surprisingly, challenging what others might expect them to do based on their gender, culture, family role, or personality.'
   },
   {
     id: '7',
     title: 'Revealing Dialogue',
     summary: 'Revealing Dialogue',
-    detail: 'Hear a line spoken by a character that gives the audience a key insight into their personality, motivations, or what they are truly thinking.'
+    detail: 'A line spoken by a character that shows the audience their true thoughts, feelings, secrets, or what they really want. Gives key insight.'
   },
   {
     id: '8',
     title: 'Editing for Contrast/Pace',
     summary: 'Editing for Contrast/Pace',
-    detail: 'Notice how the film cuts between shots – perhaps very quickly to create energy, slowly to build feeling, or cutting between different scenes to draw a comparison.'
+    detail: 'How the film cuts between shots. Look for fast cuts creating energy, slow cuts for mood, or cutting between different scenes happening at once.'
   },
   {
     id: '9',
     title: 'Prejudice Shown',
     summary: 'Prejudice Shown',
-    detail: 'See or hear an instance where a character is treated unfairly or negatively based on assumptions about a group they belong to.'
+    detail: 'A character is treated unfairly, judged negatively, or insulted because they belong to a certain group (based on race, gender, culture, etc.).'
   },
   {
     id: '10',
     title: 'Symbolic Action/Image',
     summary: 'Symbolic Action/Image',
-    detail: 'Spot an action or a visual element that seems to stand for more than just its literal meaning, representing a larger concept or idea relevant to the story.'
+    detail: 'An action or visual (like an object or colour) that represents a bigger idea beyond its literal meaning, such as freedom, challenge, or hope.'
   },
 ];
 
